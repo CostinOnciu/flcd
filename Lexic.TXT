@@ -13,6 +13,7 @@ a. Special symbols, representing:
 	- operators: <- + +<- - -<- < <= = > >= / % $
 	- separators: | ( ) [ ] # ... ; ,
 	- reserved words: let int char read check write for ret else const while main f
+
 b. Identifiers
 	- a seq. of letters that can end with digits such that the first character is always a letter
 		identifier = {"_"}letter{letter}{digit}
