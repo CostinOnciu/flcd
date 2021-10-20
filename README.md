@@ -1,3 +1,5 @@
+https://github.com/CostinOnciu/flcd/tree/lab3
+
 The class Scanner has:
 
 * self.__reserved_word 
